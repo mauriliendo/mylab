@@ -1,2 +1,6 @@
 "archivo: code2.txt"
+<<<<<<< HEAD
 chau
+=======
+hola
+>>>>>>> ef4e6d9e08fb473753aeb612f6744761cfbc44e0
